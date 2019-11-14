@@ -1,0 +1,28 @@
+{
+  "name": "merrill-test-solution",
+  "version": "1.0.0",
+  "description": "Retrieve list of test Merrill users - Node implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-slavin/merrill-test-solution.git"
+  },
+  "author": "Tim Slavin",
+  "bugs": {
+    "url": "https://github.com/tim-slavin/merrill-test-solution/issues"
+  },
+  "homepage": "https://github.com/tim-slavin/merrill-test-solution#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/inert": "5.x.x",
+    "@hapi/vision": "5.x.x",
+    "@hapi/wreck": "^15.1.0",
+    "lodash": "4.x.x",
+    "get-env": "0.x.x",
+    "hapi-swagger": "^10.2.0"
+  }
+}
