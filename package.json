@@ -19,10 +19,12 @@
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "@hapi/inert": "5.x.x",
+    "@hapi/joi": "15.x.x",
     "@hapi/vision": "5.x.x",
     "@hapi/wreck": "^15.1.0",
     "lodash": "4.x.x",
     "get-env": "0.x.x",
-    "hapi-swagger": "^10.2.0"
+    "hapi-swagger": "^10.2.0",
+    "async": "3.x.x"
   }
 }
