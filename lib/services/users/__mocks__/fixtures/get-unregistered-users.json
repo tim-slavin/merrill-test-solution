@@ -1,0 +1,16 @@
+[
+  {
+     "id":"3",
+     "emailAddress":"email1@somewhere.com",
+     "languageCode":"en",
+     "registrationId":"jwsMJNOk3oM3hVM5bGcF1",
+     "registrationIdGeneratedTime":"156165026851"
+  },
+  {
+     "id":"4",
+     "emailAddress":"email2@somewhere.com",
+     "languageCode":"en",
+     "registrationId":"jwsMJNOk3oM3hVM5bGcF2",
+     "registrationIdGeneratedTime":"156165026852"
+  }
+]
