@@ -1,0 +1,22 @@
+{
+  "test": {
+      "api": {
+          "url": "https://api.test.merrillplatform.com/v1"
+      }
+  },
+  "stage": {
+      "api": {
+          "url": "https://api.staging.merrillplatform.com/v1"
+      }
+  },
+  "production": {
+      "api": {
+          "url": "https://api.merrillplatform.com/v1"
+      }
+  },
+  "local": {
+      "api": {
+          "url": "http://localhost:8080"
+      }
+  }
+}
